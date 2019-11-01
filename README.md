@@ -18,6 +18,11 @@ The preferred way of installing SwiftUIX is via the [Swift Package Manager](http
 
 # Usage
 
+## import first
+``` Swift
+import Unwrap
+```
+
 ## Just Unwrap it
 ``` Swift
     let myValue:String? = SomeDataSource.fetch()
